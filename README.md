@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am an undergrad at Landmark University majoring in Electrical and Information Engineering. I am a Mobile Application developer with approximately a year of experience.  Besides programming, I have interest in reading books, playing chess and surfing the net.
+I am a Mobile Application developer with a year of experience.  Besides programming, I have interest in reading books, playing chess and surfing the net.
 
 
 - 🌱 I’m currently learning system design and how the world of cloud works
