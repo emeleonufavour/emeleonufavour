@@ -12,18 +12,18 @@
   
 </div>
 
-### Hi there👋, I am Favour
+### Hi there👋,
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Mobile Application developer with more than a year of experience and currently learning Blockchain development. Besides programming, I have interest in reading books, playing chess and surfing the net.
+I am a Mobile Application developer with years of experience and an aspiring Software Engineer. Besides programming, I have interest in reading books, playing chess and surfing the net.
 
 
-- 🌱 I’m currently learning how to build and work with Smart Contracts with Solidity
+- 🌱 I’m currently increasing my problem-solving abilities
 - 👯 I’m looking to collaborate on projects involving Flutter
-- 💬 Ask me about anything Flutter and Blockchain related
+- 💬 I would love to talk with you on DSA and System Design :) 
 - 😄 Pronouns: He/Him
 
 
