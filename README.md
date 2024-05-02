@@ -52,4 +52,12 @@ I am a Mobile Application developer with more than 2 years of experience and an 
 [Medium](https://medium.com/@emeleonufavour)
 
 
+ 
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 
