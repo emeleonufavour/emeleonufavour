@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Mobile Application developer with more than 2 years of experience and an aspiring Software Engineer. Besides programming, I have interest in reading books, playing chess and surfing the net.
+I am a Mobile Application developer with years of experience and an aspiring Software Engineer. Besides programming, I have interest in reading books, playing chess and surfing the net.
 
 
 - 🌱 I’m currently increasing my problem-solving abilities and exploring Backend with Spring Boot. 
