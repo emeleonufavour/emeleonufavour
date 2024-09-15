@@ -12,16 +12,16 @@
   
 </div>
 
-### Hi there👋,
+### Hey there👋,
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Mobile Application developer with years of experience and an aspiring Software Engineer. Besides programming, I have interest in reading books, playing chess and surfing the net.
+I am a Mobile Application developer with years of experience and an aspiring Software Engineer. Besides programming, I love reading books, playing chess and surfing the net.
 
 
-- 🌱 I’m currently increasing my problem-solving abilities and exploring Backend with Spring Boot. 
+- 🌱 I’m currently increasing my problem-solving abilities by tackling questions on Leetcode. 
 - 👯 I’m looking to collaborate on projects involving Flutter and Spring Boot. 
 - 💬 I would love to talk with you on DSA and System Design :) 
 - 😄 Pronouns: He/Him
