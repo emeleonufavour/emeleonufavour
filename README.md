@@ -29,16 +29,16 @@ I am a Mobile Application developer with years of experience and an aspiring Sof
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="apple" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp; -->
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp; 
 </div>
@@ -46,6 +46,40 @@ I am a Mobile Application developer with years of experience and an aspiring Sof
 ### :fire: My Stats :
 * [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emeleonufavour&theme=dark&background=000000)](https://git.io/streak-stats)
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeleonufavour&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Animations
+
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>Food Store</th>	
+			<th>Men's Fashion</th>	
+			<th>Fits</th>
+		</tr>
+		<tr>
+			<td>
+<!-- 				<img src="https://user-images.githubusercontent.com/32166619/210073354-c802d4fa-e28c-4afe-8045-fa7132542727.gif" alt="3D Card Animation"></img> -->
+			</td>
+			<td>
+<!-- 				<img src="https://user-images.githubusercontent.com/32166619/210073809-850bef12-9634-40e7-859e-48e8565ed451.gif" alt="Favorite Places UI"></img> -->
+			</td>
+			<td>
+<!-- 			<img src="https://user-images.githubusercontent.com/32166619/210074020-293fd523-9449-4ff4-913b-15768ff1c10f.gif" alt="Card Swipe FLutter"></img> -->
+			</td>
+		</tr>
+		<tr>
+			<td>
+<!-- 				🔗 <a href="https://twitter.com/czarify/status/1605612977356304384?s=20">Tweet</a> -->
+			</td>
+			<td>
+<!-- 				🔗 <a href="https://twitter.com/czarify/status/1577253920845406209?s=20">Tweet</a> -->
+			</td>
+			<td>
+<!-- 				🔗 <a href="https://twitter.com/czarify/status/1582729505977749509?s=20">Tweet</a> -->
+			</td>
+	</tbody>
+</table>
 
 ### :writing_hand: Blog Posts :
 
