@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Mobile Application developer with years of experience and an aspiring Software Engineer. Besides programming, I love reading books, playing chess and surfing the net.
+I am an excellent Mobile Application developer with years of experience. Besides programming, I love reading books, playing chess and surfing the net.
 
 
 - 🌱 I’m currently increasing my problem-solving abilities by tackling questions on Leetcode. 
@@ -59,13 +59,13 @@ I am a Mobile Application developer with years of experience and an aspiring Sof
 		</tr>
 		<tr>
 			<td>
-<!-- 				<img src="https://user-images.githubusercontent.com/32166619/210073354-c802d4fa-e28c-4afe-8045-fa7132542727.gif" alt="3D Card Animation"></img> -->
+				<img src="assets/food_store.gif" alt="Food Store"></img>
 			</td>
 			<td>
-<!-- 				<img src="https://user-images.githubusercontent.com/32166619/210073809-850bef12-9634-40e7-859e-48e8565ed451.gif" alt="Favorite Places UI"></img> -->
+				<img src="assets/men_fashion.gif" alt="Men's fashion"></img>
 			</td>
 			<td>
-<!-- 			<img src="https://user-images.githubusercontent.com/32166619/210074020-293fd523-9449-4ff4-913b-15768ff1c10f.gif" alt="Card Swipe FLutter"></img> -->
+			<img src="assets/fit.gif" alt="Fits"></img>
 			</td>
 		</tr>
 		<tr>
