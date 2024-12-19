@@ -50,35 +50,33 @@ I am an excellent Mobile Application developer with years of experience. Besides
 
 ## Animations
 
-<table>
-	<tbody width="100%">
-		<tr>
-			<th>Food Store</th>	
-			<th>Men's Fashion</th>	
-			<th>Fits</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="assets/food_store.gif" alt="Food Store"></img>
-			</td>
-			<td>
-				<img src="assets/men_fashion.gif" alt="Men's fashion"></img>
-			</td>
-			<td>
-			<img src="assets/fit.gif" alt="Fits"></img>
-			</td>
-		</tr>
-		<tr>
-			<td>
-<!-- 				🔗 <a href="https://twitter.com/czarify/status/1605612977356304384?s=20">Tweet</a> -->
-			</td>
-			<td>
-<!-- 				🔗 <a href="https://twitter.com/czarify/status/1577253920845406209?s=20">Tweet</a> -->
-			</td>
-			<td>
-<!-- 				🔗 <a href="https://twitter.com/czarify/status/1582729505977749509?s=20">Tweet</a> -->
-			</td>
-	</tbody>
+<table style="width: 100%; table-layout: fixed;">
+    <tbody>
+        <tr>
+            <th>Food Store</th>    
+            <th>Men's Fashion</th>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <img src="assets/food_store.gif" alt="Food Store" style="width: 100%; height: auto; object-fit: cover;"></img>
+            </td>
+	            <td style="text-align: center;">
+                <img src="assets/men_fashion.gif" alt="Men's fashion" style="width: 100%; height: auto; object-fit: cover;"></img>
+        </tr>
+        <tr>    
+            <th>Sneaker's store</th>    
+            <th>Fits</th>
+        </tr>
+        <tr>
+<td style="text-align: center;">
+                <img src="assets/sneaker.gif" alt="Men's fashion" style="width: 100%; height: auto; object-fit: cover;"></img>
+            </td>
+            </td>
+            <td style="text-align: center;">
+                <img src="assets/fit.gif" alt="Fits" style="width: 100%; height: auto; object-fit: cover;"></img>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ### :writing_hand: Blog Posts :
