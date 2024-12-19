@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am an excellent Mobile Application developer with years of experience. Besides programming, I love reading books, playing chess and surfing the net.
+I am a very good Mobile Software Engineer with years of experience. Besides programming, I love reading books, playing chess and surfing the net.
 
 
 - 🌱 I’m currently increasing my problem-solving abilities by tackling questions on Leetcode. 
