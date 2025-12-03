@@ -12,19 +12,9 @@
   
 </div>
 
-### Hey there👋,
+### Wagwan,
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-I am a very good Mobile Software Engineer with years of experience. Besides programming, I love reading books, playing chess and surfing the net.
-
-
-- 🌱 I’m currently increasing my problem-solving abilities by tackling questions on Leetcode. 
-- 👯 I’m looking to collaborate on projects involving Flutter and Spring Boot. 
-- 💬 I would love to talk with you on DSA and System Design :) 
-- 😄 Pronouns: He/Him
+Just a Mobile Software Engineer that wants do quality stuff.
 
 
 ### :hammer_and_wrench: Languages and Tools :
