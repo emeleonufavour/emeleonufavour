@@ -16,6 +16,10 @@
 
 Just a Mobile Software Engineer that wants do quality stuff.
 
+### :writing_hand: Checkout my rants here :
+
+[Medium](https://medium.com/@emeleonufavour)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -69,9 +73,7 @@ Just a Mobile Software Engineer that wants do quality stuff.
     </tbody>
 </table>
 
-### :writing_hand: Blog Posts :
 
-[Medium](https://medium.com/@emeleonufavour)
 
 
  
